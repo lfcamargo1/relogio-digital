@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./caminho-da-imagem" width="100%" />
+  <img src="./img/screenshot.jpg" width="100%" />
 </p>
 
 ## 💻 Projeto:
