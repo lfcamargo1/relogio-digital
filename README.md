@@ -8,7 +8,7 @@
 
 ## 💻 Projeto:
 
-Descrição do projeto.
+Projeto voltado a estudos, com o objetivo de criar um relógio digital utilizando HTML, CSS e JavaScript.
 
 ## 🚀 Tecnologias utilizadas:
 
